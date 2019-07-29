@@ -1,6 +1,5 @@
 {
     "name": "capitual/cappay-php-sdk",
-    "version": "1.0.0",
     "description": "PHP SDK for CapPay (Capitual Payment Gateway)",
     "type": "library",
     "license": "MIT",
@@ -15,6 +14,5 @@
     ],
     "keywords": ["crypto", "bitcoin", "payment", "gateway", "cryptocurrencies"],
     "require": {},
-    "autoload": ["src/CapPay.php"],
-    "minimum-stability": "stable"
+    "autoload": ["src/CapPay.php"]
 }
