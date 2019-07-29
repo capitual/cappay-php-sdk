@@ -14,5 +14,7 @@
     ],
     "keywords": ["crypto", "bitcoin", "payment", "gateway", "cryptocurrencies"],
     "require": {},
-    "autoload": ["src/CapPay.php"]
+    "autoload": {
+        "files": "src/CapPay.php"
+    }
 }
