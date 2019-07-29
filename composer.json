@@ -1,0 +1,16 @@
+{
+    "name": "capitual/cappay-php-sdk",
+    "description": "PHP SDK for CapPay (Capitual Payment Gateway)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jefrey Santos",
+            "email": "jefrey.santos@capitual.io"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"\\Capitual\\CapPay": "src/"},
+    }
+}
